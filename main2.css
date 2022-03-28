@@ -1,0 +1,16 @@
+div {
+    border: 2px solid black;
+}
+
+.white {
+    color: white;
+    font-weight: bold;
+}
+
+.top {
+    background-color: lightcoral;
+}
+
+.second {
+    background-color: orange;
+}
